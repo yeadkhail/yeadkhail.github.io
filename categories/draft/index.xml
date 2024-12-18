@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Draft - Category - yeadkhail</title>
-    <link>http://localhost:1313/categories/draft/</link>
+    <link>http://localhost:44125/categories/draft/</link>
     <description>This is my blogging site</description>
     <generator>Hugo 0.140.0 &amp; FixIt v0.3.16</generator>
     <language>en-us</language>
     <managingEditor>yeadkhail@gmail.com (Yead Khail)</managingEditor>
     <webMaster>yeadkhail@gmail.com (Yead Khail)</webMaster>
     <lastBuildDate>Wed, 18 Dec 2024 23:10:18 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/draft/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:44125/categories/draft/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/583bc6c/</link>
+      <link>http://localhost:44125/posts/583bc6c/</link>
       <pubDate>Wed, 18 Dec 2024 23:10:18 +0600</pubDate><author>yeadkhail@gmail.com (Yead Khail)</author>
-      <guid>http://localhost:1313/posts/583bc6c/</guid>
-      <category domain="http://localhost:1313/categories/draft/">Draft</category>
+      <guid>http://localhost:44125/posts/583bc6c/</guid>
+      <category domain="http://localhost:44125/categories/draft/">Draft</category>
       <description>&lt;p&gt;A blog (a truncation of &amp;ldquo;weblog&amp;rdquo;) is an informational website published on the World Wide Web consisting of discrete, often informal diary-style text entries (posts). Posts are typically displayed in reverse chronological order so that the most recent post appears first, at the top of the web page. Until 2009, blogs were usually the work of a single individual,[citation needed] occasionally of a small group, and often covered a single subject or topic. In the 2010s, &amp;ldquo;multi-author blogs&amp;rdquo; (MABs) emerged, featuring the writing of multiple authors and sometimes professionally edited. MABs from newspapers, other media outlets, universities, think tanks, advocacy groups, and similar institutions account for an increasing quantity of blog traffic. The rise of Twitter and other &amp;ldquo;microblogging&amp;rdquo; systems helps integrate MABs and single-author blogs into the news media. Blog can also be used as a verb, meaning to maintain or add content to a blog.&lt;/p&gt;</description>
     </item>
   </channel>
